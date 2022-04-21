@@ -1,1 +1,15 @@
 # Dynamic-Web-Pages-with-JS
+- # JS Intro Paragraph
+- JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat.
+- # Input and Output in JS
+- html
+- head
+- title(Hello World)title
+- head
+- body
+- body
+- html
+- # Variables
+- Variables are containers for storing data (storing data values)
+- VAr, Let, Const
+- 
